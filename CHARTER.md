@@ -50,7 +50,13 @@ The HF will strive to adhere to the following principles:
 
 #### 4. Membership.
 
-TODO
+Requirements for HBAR Foundry membership are based on attendance, and participation in the workings of the organization, namely our meetings, and our Zulip.sh chat channel. Foundry membership is broken down into three distinct groups:
+
+	(a) Guests: Anyone interested in the Hedera Hashgraph network is welcome to be our guest and join us in the informal HBAR Foundry calls that take place each Friday. These fun weekly conversations have the added benefit of exposure to some of the most experienced and talented individuals Web3 has to offer.
+
+ 	(b) Members: Individuals that attend 50% of stated HBAR Foundry meetings and participate regularly in the HF Zulip channel will be eligible to; attend HF core meetings, hold positions on the governing board, apply to participate as HF Contributors.
+
+  	(c) Contributors: Teams that have pledged significant resources to HBAR Foundry, or that are working actively with HF in the apprenticeship program, will be considered HF Contributors. Contributors will have one on one access to the deep technical and business experience of HF Members, and will be eligible to participate in incentivized programs that are tailored to the skills and needs of HF Members and Contributors.
 
 #### 5. Governing Board
 
